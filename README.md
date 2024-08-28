@@ -35,4 +35,4 @@ The goal of this project is to create a functional replica of the Croma homepage
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/croma-homepage-clone.git
+   git clone [https://github.com/ranjanaditya08/Croma-Replica.git]
